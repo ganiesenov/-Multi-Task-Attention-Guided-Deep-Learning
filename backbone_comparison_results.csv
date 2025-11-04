@@ -1,0 +1,2 @@
+Backbone,Test_Pathology_AUC,Test_Pathology_Acc,Test_Density_Acc,Params,Input_Size,Time_min,Epochs
+EfficientNetB7,1.0,0.9981617647058824,0.9935661764705882,65609756,"(600, 600)",6.705447824796041,15

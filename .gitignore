@@ -1,0 +1,16 @@
+
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+
+mammography_images/
+runs/
+output/
+logs/
+__pycache__/
+*.pt
+*.pth
+*.ckpt
