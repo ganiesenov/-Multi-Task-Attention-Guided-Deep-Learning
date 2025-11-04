@@ -5,6 +5,8 @@
 *.bmp
 *.tif
 *.tiff
+*.h5
+*.keras
 
 mammography_images/
 runs/
@@ -14,3 +16,4 @@ __pycache__/
 *.pt
 *.pth
 *.ckpt
+efnb7_mammo_multitask.keras
